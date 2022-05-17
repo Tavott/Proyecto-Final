@@ -153,8 +153,6 @@ section {
 }
 .productos .box-container .box:hover {
     border:none;
-    /* text-align: center; */
-    /* border: var(--border); */
 }
 
 .productos .box-container .box img {
